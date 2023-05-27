@@ -1,5 +1,5 @@
 # purplecelloserver.github.io
 
-Comeing Soon
+Coming Soon
 
 Admin Email: purplecelloserver@gmail.com
