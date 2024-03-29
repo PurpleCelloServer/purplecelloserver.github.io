@@ -3,7 +3,7 @@
 Admin Email: [purplecelloserver@gmail.com](mailto:purplecelloserver@gmail.com)
 
 ## Info
-Updated August 29, 2022
+Updated March 28, 2024
 
 The Minecraft server is running on 1.19 because I have been too lazy to update it. (There is a technical reason for that too that I am working on.)
 Some known issues are that skins don't work except for when they do and pets won't sit down except for when they do. Those are probably my bad.
